@@ -42,6 +42,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Controller\GropBy.cs" />
+    <Compile Include="Controller\OrderBy.cs" />
+    <Compile Include="Controller\Revers.cs" />
+    <Compile Include="Controller\Select.cs" />
+    <Compile Include="Controller\SelectMany.cs" />
     <Compile Include="Model\arrCtg.cs" />
     <Compile Include="Model\Student.cs" />
     <Compile Include="Model\Teacher.cs" />
